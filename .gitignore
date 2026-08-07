@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+.idea/
+
+*.save
+*.pyc
+
+answers/
+answers.zip
+
+r4.2/
+r4.2.zip

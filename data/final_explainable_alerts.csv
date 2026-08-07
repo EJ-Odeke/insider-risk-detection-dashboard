@@ -1,0 +1,351 @@
+user,risk_score,risk_category,alert_priority,severity,Risk Category,Indicator,Observed,Normal Avg,Deviation,SHAP Impact
+345,0.995072272166101,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,36.0,388.44,-90.7%,0.079
+345,0.995072272166101,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,18.0,193.6,-90.7%,0.072
+345,0.995072272166101,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.072
+345,0.995072272166101,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,18.0,194.84,-90.8%,0.055
+345,0.995072272166101,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,498.0,865.95,-42.5%,0.053
+509,0.9906867812700417,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,16.0,388.44,-95.9%,0.081
+509,0.9906867812700417,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,8.0,193.6,-95.9%,0.075
+509,0.9906867812700417,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.071
+509,0.9906867812700417,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,8.0,194.84,-95.9%,0.054
+509,0.9906867812700417,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,314.0,865.95,-63.7%,0.053
+103,0.9898351135296937,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,32.0,388.44,-91.8%,0.079
+103,0.9898351135296937,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,16.0,193.6,-91.7%,0.072
+103,0.9898351135296937,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.071
+103,0.9898351135296937,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,16.0,194.84,-91.8%,0.055
+103,0.9898351135296937,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,340.0,865.95,-60.7%,0.054
+4,0.9864817735507854,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,13.0,388.44,-96.7%,0.083
+4,0.9864817735507854,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,6.0,193.6,-96.9%,0.075
+4,0.9864817735507854,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.07
+4,0.9864817735507854,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,7.0,194.84,-96.4%,0.059
+4,0.9864817735507854,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,458.0,865.95,-47.1%,0.057
+630,0.9861237929420088,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,31.0,388.44,-92.0%,0.078
+630,0.9861237929420088,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,15.0,193.6,-92.3%,0.074
+630,0.9861237929420088,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.07
+630,0.9861237929420088,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,16.0,194.84,-91.8%,0.057
+630,0.9861237929420088,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,412.0,865.95,-52.4%,0.052
+691,0.9839752212389381,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,14.0,388.44,-96.4%,0.081
+691,0.9839752212389381,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,7.0,193.6,-96.4%,0.074
+691,0.9839752212389381,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.072
+691,0.9839752212389381,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,7.0,194.84,-96.4%,0.054
+691,0.9839752212389381,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,510.0,865.95,-41.1%,0.053
+469,0.9827572932203971,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,986.0,388.44,153.8%,0.071
+469,0.9827572932203971,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.07
+469,0.9827572932203971,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,468.0,865.95,-46.0%,0.067
+469,0.9827572932203971,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,492.0,193.6,154.1%,0.066
+469,0.9827572932203971,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,494.0,194.84,153.5%,0.061
+361,0.9827375009338863,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,22.0,388.44,-94.3%,0.08
+361,0.9827375009338863,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,11.0,193.6,-94.3%,0.075
+361,0.9827375009338863,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.071
+361,0.9827375009338863,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,11.0,194.84,-94.4%,0.055
+361,0.9827375009338863,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,41.0,448.28,-90.9%,0.051
+119,0.9770724494970966,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,8.0,388.44,-97.9%,0.075
+119,0.9770724494970966,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.072
+119,0.9770724494970966,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,4.0,193.6,-97.9%,0.071
+119,0.9770724494970966,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,5.0,448.28,-98.9%,0.055
+119,0.9770724494970966,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,4.0,194.84,-97.9%,0.053
+274,0.9743524624527775,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,512.0,865.95,-40.9%,0.072
+274,0.9743524624527775,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.07
+274,0.9743524624527775,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1116.0,388.44,187.3%,0.07
+274,0.9743524624527775,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,557.0,193.6,187.7%,0.064
+274,0.9743524624527775,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,559.0,194.84,186.9%,0.06
+608,0.9706317032363936,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,12.0,388.44,-96.9%,0.082
+608,0.9706317032363936,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,6.0,193.6,-96.9%,0.074
+608,0.9706317032363936,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.071
+608,0.9706317032363936,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,6.0,194.84,-96.9%,0.059
+608,0.9706317032363936,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,341.0,865.95,-60.6%,0.052
+244,0.9698432404828113,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,46.0,388.44,-88.2%,0.078
+244,0.9698432404828113,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,23.0,193.6,-88.1%,0.071
+244,0.9698432404828113,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.07
+244,0.9698432404828113,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,23.0,194.84,-88.2%,0.055
+244,0.9698432404828113,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,588.0,865.95,-32.1%,0.053
+437,0.968141366831608,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,932.0,388.44,139.9%,0.071
+437,0.968141366831608,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.071
+437,0.968141366831608,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,464.0,193.6,139.7%,0.065
+437,0.968141366831608,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,422.0,865.95,-51.3%,0.065
+437,0.968141366831608,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,468.0,194.84,140.2%,0.061
+618,0.9651700214827866,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,18.0,388.44,-95.4%,0.079
+618,0.9651700214827866,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,9.0,193.6,-95.4%,0.073
+618,0.9651700214827866,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.071
+618,0.9651700214827866,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,9.0,194.84,-95.4%,0.057
+618,0.9651700214827866,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,402.0,865.95,-53.6%,0.05
+813,0.9646246632553696,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,40.0,388.44,-89.7%,0.078
+813,0.9646246632553696,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,20.0,193.6,-89.7%,0.071
+813,0.9646246632553696,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.07
+813,0.9646246632553696,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,308.0,865.95,-64.4%,0.056
+813,0.9646246632553696,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,20.0,194.84,-89.7%,0.054
+802,0.9567852917187939,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,12.0,388.44,-96.9%,0.082
+802,0.9567852917187939,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,6.0,193.6,-96.9%,0.072
+802,0.9567852917187939,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.069
+802,0.9567852917187939,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,6.0,194.84,-96.9%,0.056
+802,0.9567852917187939,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,627.0,865.95,-27.6%,0.053
+336,0.9566945314204754,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,24.0,388.44,-93.8%,0.081
+336,0.9566945314204754,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,12.0,193.6,-93.8%,0.072
+336,0.9566945314204754,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.069
+336,0.9566945314204754,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,12.0,194.84,-93.8%,0.058
+336,0.9566945314204754,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,548.0,865.95,-36.7%,0.056
+172,0.9537122269454975,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1274.0,388.44,228.0%,0.071
+172,0.9537122269454975,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.069
+172,0.9537122269454975,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,636.0,865.95,-26.6%,0.064
+172,0.9537122269454975,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,636.0,193.6,228.5%,0.061
+172,0.9537122269454975,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,638.0,194.84,227.5%,0.059
+792,0.9506822481497981,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.069
+792,0.9506822481497981,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,696.0,388.44,79.2%,0.066
+792,0.9506822481497981,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,342.0,865.95,-60.5%,0.066
+792,0.9506822481497981,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,348.0,193.6,79.8%,0.058
+792,0.9506822481497981,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,348.0,194.84,78.6%,0.053
+494,0.949471234949157,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,2.0,3.48,-42.6%,0.093
+494,0.949471234949157,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,4.0,388.44,-99.0%,0.079
+494,0.949471234949157,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,2.0,193.6,-99.0%,0.074
+494,0.949471234949157,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,2.0,194.84,-99.0%,0.058
+494,0.949471234949157,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,1.0,448.28,-99.8%,0.053
+593,0.9492656351609794,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.069
+593,0.9492656351609794,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,314.0,865.95,-63.7%,0.068
+593,0.9492656351609794,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,700.0,388.44,80.2%,0.064
+593,0.9492656351609794,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,350.0,193.6,80.8%,0.058
+593,0.9492656351609794,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,350.0,194.84,79.6%,0.054
+529,0.9466029865459973,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,2.0,3.48,-42.6%,0.093
+529,0.9466029865459973,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,4.0,388.44,-99.0%,0.077
+529,0.9466029865459973,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,2.0,193.6,-99.0%,0.074
+529,0.9466029865459973,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,2.0,194.84,-99.0%,0.055
+529,0.9466029865459973,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,1.0,448.28,-99.8%,0.052
+136,0.9329454620008716,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,16.0,388.44,-95.9%,0.082
+136,0.9329454620008716,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,8.0,193.6,-95.9%,0.075
+136,0.9329454620008716,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.065
+136,0.9329454620008716,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,8.0,194.84,-95.9%,0.056
+136,0.9329454620008716,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,4.0,448.28,-99.1%,0.052
+523,0.9326836946990816,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,46.0,388.44,-88.2%,0.079
+523,0.9326836946990816,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,23.0,193.6,-88.1%,0.074
+523,0.9326836946990816,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.069
+523,0.9326836946990816,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,574.0,865.95,-33.7%,0.062
+523,0.9326836946990816,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,23.0,194.84,-88.2%,0.059
+897,0.9261120248504822,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,10.0,388.44,-97.4%,0.084
+897,0.9261120248504822,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,5.0,193.6,-97.4%,0.075
+897,0.9261120248504822,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.068
+897,0.9261120248504822,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,5.0,194.84,-97.4%,0.059
+897,0.9261120248504822,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,21.0,448.28,-95.3%,0.05
+164,0.9225385136773534,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.069
+164,0.9225385136773534,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1262.0,388.44,224.9%,0.067
+164,0.9225385136773534,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,576.0,865.95,-33.5%,0.065
+164,0.9225385136773534,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,629.0,193.6,224.9%,0.06
+164,0.9225385136773534,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,633.0,194.84,224.9%,0.058
+818,0.922253822406358,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,322.0,865.95,-62.8%,0.069
+818,0.922253822406358,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.067
+818,0.922253822406358,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,743.0,388.44,91.3%,0.064
+818,0.922253822406358,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,370.0,193.6,91.1%,0.062
+818,0.922253822406358,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,373.0,194.84,91.4%,0.057
+950,0.9197491798108345,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.069
+950,0.9197491798108345,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,427.0,865.95,-50.7%,0.068
+950,0.9197491798108345,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,922.0,388.44,137.4%,0.068
+950,0.9197491798108345,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,460.0,193.6,137.6%,0.062
+950,0.9197491798108345,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,462.0,194.84,137.1%,0.055
+629,0.9186163192779552,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,42.0,388.44,-89.2%,0.076
+629,0.9186163192779552,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,21.0,193.6,-89.2%,0.069
+629,0.9186163192779552,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.068
+629,0.9186163192779552,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,604.0,865.95,-30.2%,0.055
+629,0.9186163192779552,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,21.0,194.84,-89.2%,0.054
+642,0.9181460546150558,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,592.0,865.95,-31.6%,0.07
+642,0.9181460546150558,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.068
+642,0.9181460546150558,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1257.0,388.44,223.6%,0.065
+642,0.9181460546150558,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,626.0,193.6,223.3%,0.057
+642,0.9181460546150558,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,631.0,194.84,223.9%,0.057
+775,0.9049159131374903,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.068
+775,0.9049159131374903,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,54.0,388.44,-86.1%,0.062
+775,0.9049159131374903,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,27.0,193.6,-86.1%,0.056
+775,0.9049159131374903,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,588.0,865.95,-32.1%,0.052
+775,0.9049159131374903,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,27.0,194.84,-86.1%,0.044
+109,0.9042406900809692,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,22.0,388.44,-94.3%,0.079
+109,0.9042406900809692,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,11.0,193.6,-94.3%,0.074
+109,0.9042406900809692,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.069
+109,0.9042406900809692,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,11.0,194.84,-94.4%,0.053
+109,0.9042406900809692,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,296.0,865.95,-65.8%,0.052
+96,0.901525759381918,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,2.0,3.48,-42.6%,0.091
+96,0.901525759381918,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,4.0,388.44,-99.0%,0.075
+96,0.901525759381918,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,2.0,193.6,-99.0%,0.071
+96,0.901525759381918,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,2.0,194.84,-99.0%,0.056
+96,0.901525759381918,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,1.0,448.28,-99.8%,0.051
+152,0.9009043229524796,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,25.0,388.44,-93.6%,0.078
+152,0.9009043229524796,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,12.0,193.6,-93.8%,0.07
+152,0.9009043229524796,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.067
+152,0.9009043229524796,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,13.0,194.84,-93.3%,0.057
+152,0.9009043229524796,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,42.0,448.28,-90.6%,0.053
+683,0.8996842957177568,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,2.0,3.48,-42.6%,0.09
+683,0.8996842957177568,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,4.0,388.44,-99.0%,0.078
+683,0.8996842957177568,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,2.0,193.6,-99.0%,0.075
+683,0.8996842957177568,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,2.0,194.84,-99.0%,0.055
+683,0.8996842957177568,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,1.0,448.28,-99.8%,0.051
+459,0.8996031485168628,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1134.0,388.44,191.9%,0.069
+459,0.8996031485168628,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,574.0,865.95,-33.7%,0.066
+459,0.8996031485168628,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.063
+459,0.8996031485168628,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,565.0,193.6,191.8%,0.062
+459,0.8996031485168628,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,569.0,194.84,192.0%,0.057
+1,0.899583974791508,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,328.0,865.95,-62.1%,0.073
+1,0.899583974791508,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.067
+1,0.899583974791508,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,688.0,388.44,77.1%,0.06
+1,0.899583974791508,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,342.0,193.6,76.7%,0.054
+1,0.899583974791508,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,346.0,194.84,77.6%,0.047
+222,0.8980998111088714,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,2.0,3.48,-42.6%,0.09
+222,0.8980998111088714,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,4.0,388.44,-99.0%,0.077
+222,0.8980998111088714,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,2.0,193.6,-99.0%,0.072
+222,0.8980998111088714,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,2.0,194.84,-99.0%,0.058
+222,0.8980998111088714,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,1.0,448.28,-99.8%,0.053
+777,0.8953448411956066,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.066
+777,0.8953448411956066,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,813.0,388.44,109.3%,0.064
+777,0.8953448411956066,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,380.0,865.95,-56.1%,0.063
+777,0.8953448411956066,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,405.0,193.6,109.2%,0.055
+777,0.8953448411956066,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,408.0,194.84,109.4%,0.053
+40,0.8914737750023307,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,38.0,388.44,-90.2%,0.073
+40,0.8914737750023307,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,19.0,193.6,-90.2%,0.07
+40,0.8914737750023307,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.068
+40,0.8914737750023307,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,19.0,194.84,-90.2%,0.051
+40,0.8914737750023307,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,398.0,865.95,-54.0%,0.05
+502,0.8878853759923,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.064
+502,0.8878853759923,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,854.0,388.44,119.9%,0.063
+502,0.8878853759923,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,428.0,194.84,119.7%,0.057
+502,0.8878853759923,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,426.0,193.6,120.0%,0.056
+502,0.8878853759923,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,686.0,865.95,-20.8%,0.036
+295,0.8866666218051482,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,26.0,388.44,-93.3%,0.078
+295,0.8866666218051482,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,13.0,193.6,-93.3%,0.07
+295,0.8866666218051482,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.068
+295,0.8866666218051482,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,13.0,194.84,-93.3%,0.055
+295,0.8866666218051482,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,14.0,448.28,-96.9%,0.048
+788,0.8857943411475677,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,8.0,388.44,-97.9%,0.079
+788,0.8857943411475677,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,4.0,193.6,-97.9%,0.071
+788,0.8857943411475677,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.066
+788,0.8857943411475677,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,2.0,448.28,-99.6%,0.056
+788,0.8857943411475677,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,4.0,194.84,-97.9%,0.055
+256,0.8846865052997775,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,368.0,865.95,-57.5%,0.066
+256,0.8846865052997775,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.066
+256,0.8846865052997775,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,779.0,388.44,100.5%,0.064
+256,0.8846865052997775,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,388.0,193.6,100.4%,0.056
+256,0.8846865052997775,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,391.0,194.84,100.7%,0.055
+296,0.8841945650434736,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,14.0,388.44,-96.4%,0.082
+296,0.8841945650434736,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,7.0,193.6,-96.4%,0.074
+296,0.8841945650434736,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.066
+296,0.8841945650434736,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,7.0,194.84,-96.4%,0.058
+296,0.8841945650434736,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,11.0,448.28,-97.5%,0.048
+45,0.8799806094335653,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,966.0,388.44,148.7%,0.066
+45,0.8799806094335653,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,480.0,193.6,147.9%,0.061
+45,0.8799806094335653,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,662.0,865.95,-23.6%,0.061
+45,0.8799806094335653,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.061
+45,0.8799806094335653,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,486.0,194.84,149.4%,0.057
+560,0.8775770222981073,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,38.0,388.44,-90.2%,0.074
+560,0.8775770222981073,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,19.0,193.6,-90.2%,0.07
+560,0.8775770222981073,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.068
+560,0.8775770222981073,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,19.0,194.84,-90.2%,0.052
+560,0.8775770222981073,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,588.0,865.95,-32.1%,0.049
+575,0.8680823717964864,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,530.0,865.95,-38.8%,0.076
+575,0.8680823717964864,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.065
+575,0.8680823717964864,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,562.0,193.6,190.3%,0.062
+575,0.8680823717964864,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1130.0,388.44,190.9%,0.061
+575,0.8680823717964864,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,568.0,194.84,191.5%,0.057
+455,0.8678494132214,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,342.0,865.95,-60.5%,0.072
+455,0.8678494132214,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.065
+455,0.8678494132214,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,694.0,388.44,78.7%,0.061
+455,0.8678494132214,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,344.0,193.6,77.7%,0.053
+455,0.8678494132214,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,350.0,194.84,79.6%,0.05
+291,0.8629166528752343,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.065
+291,0.8629166528752343,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,833.0,388.44,114.4%,0.061
+291,0.8629166528752343,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,378.0,865.95,-56.3%,0.058
+291,0.8629166528752343,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,413.0,193.6,113.3%,0.054
+291,0.8629166528752343,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,420.0,194.84,115.6%,0.052
+568,0.8566818815980068,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,16.0,388.44,-95.9%,0.095
+568,0.8566818815980068,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.092
+568,0.8566818815980068,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,8.0,193.6,-95.9%,0.085
+568,0.8566818815980068,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,8.0,194.84,-95.9%,0.065
+568,0.8566818815980068,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,308.0,865.95,-64.4%,0.055
+677,0.8501087485969622,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,391.0,3.48,11126.6%,0.103
+677,0.8501087485969622,High Risk,Critical,Critical,Access Behaviour Risk,Access to multiple workstations detected,416.0,20.38,1941.3%,0.054
+677,0.8501087485969622,High Risk,Critical,Critical,Data Movement Risk,Files were accessed from multiple machines,214.0,2.28,9305.5%,0.041
+677,0.8501087485969622,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1774.0,388.44,356.7%,0.039
+677,0.8501087485969622,High Risk,Critical,Critical,Access Behaviour Risk,Login activity occurred outside normal working hours,1143.0,342.24,234.0%,0.037
+507,0.8490890479921847,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,2.0,3.48,-42.6%,0.088
+507,0.8490890479921847,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,4.0,388.44,-99.0%,0.082
+507,0.8490890479921847,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,2.0,193.6,-99.0%,0.075
+507,0.8490890479921847,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,2.0,194.84,-99.0%,0.057
+507,0.8490890479921847,High Risk,Critical,Critical,Data Movement Risk,Unusual file copying activity detected,1.0,448.28,-99.8%,0.055
+289,0.8446524216724779,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.066
+289,0.8446524216724779,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1070.0,388.44,175.5%,0.062
+289,0.8446524216724779,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,484.0,865.95,-44.1%,0.061
+289,0.8446524216724779,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,535.0,193.6,176.3%,0.06
+289,0.8446524216724779,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,535.0,194.84,174.6%,0.054
+160,0.8433675484835547,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,430.0,3.48,12246.4%,0.104
+160,0.8433675484835547,High Risk,Critical,Critical,Access Behaviour Risk,Access to multiple workstations detected,447.0,20.38,2093.4%,0.049
+160,0.8433675484835547,High Risk,Critical,Critical,Data Movement Risk,Files were accessed from multiple machines,252.0,2.28,10975.6%,0.043
+160,0.8433675484835547,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1511.0,388.44,289.0%,0.043
+160,0.8433675484835547,High Risk,Critical,Critical,Access Behaviour Risk,Login activity occurred outside normal working hours,1222.0,342.24,257.1%,0.035
+773,0.8419101850740965,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,312.0,865.95,-64.0%,0.065
+773,0.8419101850740965,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.065
+773,0.8419101850740965,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,653.0,388.44,68.1%,0.055
+773,0.8419101850740965,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,330.0,194.84,69.4%,0.04
+773,0.8419101850740965,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,323.0,193.6,66.8%,0.039
+806,0.8306828663778367,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,504.0,865.95,-41.8%,0.069
+806,0.8306828663778367,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.064
+806,0.8306828663778367,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,735.0,388.44,89.2%,0.058
+806,0.8306828663778367,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,365.0,193.6,88.5%,0.054
+806,0.8306828663778367,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,370.0,194.84,89.9%,0.053
+344,0.8112147392769242,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,648.0,865.95,-25.2%,0.07
+344,0.8112147392769242,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1263.0,388.44,225.1%,0.062
+344,0.8112147392769242,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.062
+344,0.8112147392769242,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,629.0,193.6,224.9%,0.059
+344,0.8112147392769242,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,634.0,194.84,225.4%,0.057
+638,0.806254459917709,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.062
+638,0.806254459917709,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,616.0,865.95,-28.9%,0.053
+638,0.806254459917709,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,72.0,388.44,-81.5%,0.048
+638,0.806254459917709,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,36.0,193.6,-81.4%,0.043
+638,0.806254459917709,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,36.0,194.84,-81.5%,0.035
+733,0.8008418114322798,High Risk,Critical,Critical,Access Behaviour Risk,High login activity compared with normal employees,638.0,865.95,-26.3%,0.064
+733,0.8008418114322798,High Risk,Critical,Critical,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.06
+733,0.8008418114322798,High Risk,Critical,Critical,Device Usage Risk,Elevated device connection activity detected,1299.0,388.44,234.4%,0.043
+733,0.8008418114322798,High Risk,Critical,Critical,Device Usage Risk,Frequent device removal activity detected,646.0,193.6,233.7%,0.041
+733,0.8008418114322798,High Risk,Critical,Critical,Device Usage Risk,Frequent device connections detected,653.0,194.84,235.2%,0.04
+407,0.7931730424971812,Medium Risk,Suspicious,High,Device Usage Risk,Elevated device connection activity detected,12.0,388.44,-96.9%,0.088
+407,0.7931730424971812,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device removal activity detected,6.0,193.6,-96.9%,0.074
+407,0.7931730424971812,Medium Risk,Suspicious,High,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.061
+407,0.7931730424971812,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device connections detected,6.0,194.84,-96.9%,0.059
+407,0.7931730424971812,Medium Risk,Suspicious,High,Data Movement Risk,Unusual file copying activity detected,5.0,448.28,-98.9%,0.052
+979,0.7816086469090452,Medium Risk,Suspicious,High,Access Behaviour Risk,High login activity compared with normal employees,390.0,865.95,-55.0%,0.068
+979,0.7816086469090452,Medium Risk,Suspicious,High,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.06
+979,0.7816086469090452,Medium Risk,Suspicious,High,Device Usage Risk,Elevated device connection activity detected,846.0,388.44,117.8%,0.057
+979,0.7816086469090452,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device removal activity detected,423.0,193.6,118.5%,0.054
+979,0.7816086469090452,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device connections detected,423.0,194.84,117.1%,0.05
+216,0.7758879716655248,Medium Risk,Suspicious,High,Access Behaviour Risk,High login activity compared with normal employees,654.0,865.95,-24.5%,0.063
+216,0.7758879716655248,Medium Risk,Suspicious,High,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.057
+216,0.7758879716655248,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device connections detected,668.0,194.84,242.8%,0.041
+216,0.7758879716655248,Medium Risk,Suspicious,High,Device Usage Risk,Elevated device connection activity detected,1330.0,388.44,242.4%,0.037
+216,0.7758879716655248,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device removal activity detected,662.0,193.6,241.9%,0.036
+375,0.7742918820414606,Medium Risk,Suspicious,High,Device Usage Risk,Multiple devices or machines were accessed,291.0,3.48,8255.4%,0.1
+375,0.7742918820414606,Medium Risk,Suspicious,High,Device Usage Risk,Elevated device connection activity detected,957.0,388.44,146.4%,0.051
+375,0.7742918820414606,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device removal activity detected,478.0,193.6,146.9%,0.046
+375,0.7742918820414606,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device connections detected,479.0,194.84,145.8%,0.045
+375,0.7742918820414606,Medium Risk,Suspicious,High,Data Movement Risk,Files were accessed from multiple machines,162.0,2.28,7020.0%,0.039
+917,0.7439365425447122,Medium Risk,Suspicious,High,Device Usage Risk,Elevated device connection activity detected,984.0,388.44,153.3%,0.059
+917,0.7439365425447122,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device removal activity detected,490.0,193.6,153.1%,0.057
+917,0.7439365425447122,Medium Risk,Suspicious,High,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.054
+917,0.7439365425447122,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device connections detected,494.0,194.84,153.5%,0.053
+917,0.7439365425447122,Medium Risk,Suspicious,High,Data Movement Risk,Unusual file copying activity detected,526.0,448.28,17.3%,0.03
+9,0.7289929621536713,Medium Risk,Suspicious,High,Device Usage Risk,Elevated device connection activity detected,1276.0,388.44,228.5%,0.061
+9,0.7289929621536713,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device removal activity detected,634.0,193.6,227.5%,0.057
+9,0.7289929621536713,Medium Risk,Suspicious,High,Device Usage Risk,Frequent device connections detected,642.0,194.84,229.5%,0.057
+9,0.7289929621536713,Medium Risk,Suspicious,High,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.055
+9,0.7289929621536713,Medium Risk,Suspicious,High,Data Movement Risk,Unusual file copying activity detected,589.0,448.28,31.4%,0.034
+134,0.727757013407474,Medium Risk,Suspicious,High,Device Usage Risk,Multiple devices or machines were accessed,489.0,3.48,13940.4%,0.098
+134,0.727757013407474,Medium Risk,Suspicious,High,Access Behaviour Risk,Access to multiple workstations detected,504.0,20.38,2373.1%,0.041
+134,0.727757013407474,Medium Risk,Suspicious,High,Data Movement Risk,Files were accessed from multiple machines,282.0,2.28,12294.1%,0.039
+134,0.727757013407474,Medium Risk,Suspicious,High,Access Behaviour Risk,Login activity occurred outside normal working hours,1134.0,342.24,231.4%,0.033
+134,0.727757013407474,Medium Risk,Suspicious,High,Communication Risk,Unusual email volume detected,2300.0,2699.08,-14.8%,0.023
+956,0.5995772925352408,Medium Risk,Watch,Medium,Device Usage Risk,Elevated device connection activity detected,12.0,388.44,-96.9%,0.082
+956,0.5995772925352408,Medium Risk,Watch,Medium,Device Usage Risk,Frequent device removal activity detected,6.0,193.6,-96.9%,0.073
+956,0.5995772925352408,Medium Risk,Watch,Medium,Device Usage Risk,Frequent device connections detected,6.0,194.84,-96.9%,0.057
+956,0.5995772925352408,Medium Risk,Watch,Medium,Data Movement Risk,Unusual file copying activity detected,6.0,448.28,-98.7%,0.046
+956,0.5995772925352408,Medium Risk,Watch,Medium,Data Movement Risk,Multiple file categories were accessed,1.0,1.25,-20.1%,0.042
+678,0.5242953691635988,Medium Risk,Watch,Medium,Device Usage Risk,Multiple devices or machines were accessed,440.0,3.48,12533.5%,0.089
+678,0.5242953691635988,Medium Risk,Watch,Medium,Access Behaviour Risk,Access to multiple workstations detected,456.0,20.38,2137.5%,0.034
+678,0.5242953691635988,Medium Risk,Watch,Medium,Data Movement Risk,Files were accessed from multiple machines,244.0,2.28,10624.0%,0.034
+678,0.5242953691635988,Medium Risk,Watch,Medium,Access Behaviour Risk,Login activity occurred outside normal working hours,1416.0,342.24,313.8%,0.028
+678,0.5242953691635988,Medium Risk,Watch,Medium,Online Activity Risk,Unusual web activity volume detected,24551.0,29170.37,-15.8%,0.019
+386,0.5131350024856471,Medium Risk,Watch,Medium,Access Behaviour Risk,High login activity compared with normal employees,646.0,865.95,-25.4%,0.055
+386,0.5131350024856471,Medium Risk,Watch,Medium,Device Usage Risk,Multiple devices or machines were accessed,1.0,3.48,-71.3%,0.045
+386,0.5131350024856471,Medium Risk,Watch,Medium,Communication Risk,Higher attachment activity detected,0.0,1096.54,-100.0%,0.017
+386,0.5131350024856471,Medium Risk,Watch,Medium,Data Movement Risk,Files were accessed from multiple machines,1.0,2.28,-56.0%,0.014
+386,0.5131350024856471,Medium Risk,Watch,Medium,Data Movement Risk,Multiple file categories were accessed,6.0,1.25,379.4%,0.009
